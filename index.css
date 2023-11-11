@@ -76,8 +76,17 @@ header {
     border: solid #ddd;
     box-shadow: 4px 4px 4px;
     border-radius: 10px;
+    background-color: azure;
   }
 
   h1{
     margin: 20px;
+  }
+
+  body {
+    font-family: "Trirong", serif;
+  }
+  body {
+    font-family: "Sofia", sans-serif;
+    text-shadow: 3px 3px 3px #ababab;
   }
