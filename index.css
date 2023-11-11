@@ -53,4 +53,18 @@ header {
     justify-content: left;
     gap: 20px;
   }
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+  }
+  
+  .grid-item {
+    border: 10px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    background-color: beige;
+    border-radius: 10px;
+  }
   
