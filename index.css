@@ -22,3 +22,13 @@ header {
     box-shadow: 4px 4px 4px;
     border-radius: 10px;
   }
+
+  .catalog{
+    display: flex;
+    border: solid#333;
+    border-radius: 10px;
+  }
+
+  .productclass1{
+    width: auto;
+  }
