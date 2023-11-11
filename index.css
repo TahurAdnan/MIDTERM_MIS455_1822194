@@ -6,17 +6,12 @@ header {
     border-radius: 10px;
   }
   
-  .navbar {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-  }
-  .navbar a{
+  .navlink{
     color: #fff;
     text-decoration: none;
   }
-  .navbar:hover{
-    color: solid aqua;
+  .navlink:hover{
+    color: aqua;
   }
 
   .HomePageP{
