@@ -1,0 +1,24 @@
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  .navbar a{
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .HomePageP{
+    margin-left: 5px;
+    border: solid black;
+    box-shadow: 4px 4px 4px;
+    border-radius: 10px;
+  }
