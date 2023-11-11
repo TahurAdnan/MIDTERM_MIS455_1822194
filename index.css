@@ -83,10 +83,17 @@ header {
     margin: 20px;
   }
 
+  h2{
+    margin: 10px;
+  }
+
+  .aboutus{
+    padding: 20px
+  }
+
   body {
     font-family: "Trirong", serif;
   }
   body {
     font-family: "Sofia", sans-serif;
-    text-shadow: 3px 3px 3px #ababab;
   }
