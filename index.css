@@ -28,18 +28,15 @@ header {
 
   .catalog{
     display: flex;
-    border: solid#333;
-    border-radius: 10px;
     justify-content: space-between;
   }
 
-  .catalog.div{
+  .catalog>div{
     border: 5px solid grey;
-    margin: 15px;
     padding: 15px;
     width: 500px;
     box-shadow: 4px 4px 5px rgba(139, 95, 95, 0.697);
-    background-color: rgb(161, 255, 238);
+    background-color: beige;
   }
 
   footer{
@@ -125,5 +122,6 @@ header {
     width: 500px;
     box-shadow: 4px 4px 5px rgba(139, 95, 95, 0.697);
     background-color: rgb(161, 255, 238);
+    justify-content: space-between;
 
 }
